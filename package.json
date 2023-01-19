@@ -1,0 +1,11 @@
+{
+  "name": "workers-template",
+  "version": "0.0.0",
+  "devDependencies": {
+    "wrangler": "2.7.1"
+  },
+  "private": true,
+  "dependencies": {
+    "itty-router": "^3.0.11"
+  }
+}
